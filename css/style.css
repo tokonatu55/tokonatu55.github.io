@@ -97,14 +97,14 @@ About
 }
 
 /*-------------------------------------------
-Bicycle
+Works
 -------------------------------------------*/
-#bicycle ul {
+#works ul {
   display: flex;
   justify-content: space-between;
 }
-#bicycle li {
-  width: 32%;
+#works li {
+  width: 40%;
 }
 
 /*-------------------------------------------
@@ -139,12 +139,12 @@ SP
   }
 
   /*-------------------------------------------
-  Bicycle
+  Works
   -------------------------------------------*/
-  #bicycle ul {
+  #works ul {
     flex-direction: column;
   }
-  #bicycle li {
+  #works li {
     width: 100%;
     margin-bottom: 30px;
   }
